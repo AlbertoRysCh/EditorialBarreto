@@ -1,4 +1,4 @@
-<p align="center"><img src="https://library.kissclipart.com/20181202/lfw/kissclipart-laravel-clipart-logo-brand-0a503c5f3d3f042e.jpg" width="400"></p>
+<p align="center"><img src="https://e7.pngegg.com/pngimages/719/649/png-clipart-laravel-software-framework-php-web-framework-model-view-controller-framework-angle-text.png" width="400"></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
